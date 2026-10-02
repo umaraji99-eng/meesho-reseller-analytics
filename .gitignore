@@ -1,0 +1,6 @@
+.pytest_cache/
+__pycache__/
+*.pyc
+meesho_project_seeded.db
+your_database.db
+/run_queries.py
